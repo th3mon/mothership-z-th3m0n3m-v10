@@ -1,0 +1,87 @@
+{
+  "title": "Mothership z 7h3m0nem",
+  "id": "mothership-z-7h3m0nem",
+  "system": "mosh",
+  "coreVersion": "10.291",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.291"
+  },
+  "systemVersion": "0.3.3",
+  "packs": [
+    {
+      "label": "Skills",
+      "type": "Item",
+      "name": "skills",
+      "path": "packs/skills.db",
+      "system": "mosh",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "MOSH",
+      "type": "Item",
+      "name": "mosh",
+      "path": "packs/mosh.db",
+      "system": "mosh",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Weapons",
+      "type": "Item",
+      "name": "weapons",
+      "path": "packs/weapons.db",
+      "system": "mosh",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Items",
+      "type": "Item",
+      "name": "items",
+      "path": "packs/items.db",
+      "system": "mosh",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Armor",
+      "type": "Item",
+      "name": "armor",
+      "path": "packs/armor.db",
+      "system": "mosh",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Ship Modules",
+      "type": "Item",
+      "name": "ship-modules",
+      "path": "packs/ship-modules.db",
+      "system": "mosh",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Ship Weapons",
+      "type": "Item",
+      "name": "ship-weapons",
+      "path": "packs/ship-weapons.db",
+      "system": "mosh",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Monsters | Virtual Colony",
+      "type": "Actor",
+      "name": "monsters-or-virtual-colony",
+      "path": "packs/monsters-or-virtual-colony.db",
+      "system": "mosh",
+      "private": false,
+      "flags": {},
+      "package": "world"
+    }
+  ],
+  "nextSession": "2023-02-06T19:00:00.000Z"
+}
