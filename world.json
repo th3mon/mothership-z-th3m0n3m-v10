@@ -1,6 +1,7 @@
 {
   "title": "Mothership z 7h3m0nem",
   "id": "mothership-z-7h3m0nem",
+  "version": "0.0.1",
   "system": "mosh",
   "coreVersion": "10.291",
   "compatibility": {
@@ -83,5 +84,8 @@
       "package": "world"
     }
   ],
-  "nextSession": "2023-02-06T19:00:00.000Z"
+  "nextSession": "2023-02-06T19:00:00.000Z",
+  "url": "https://github.com/th3mon/mothership-z-th3m0n3m-v10",
+  "manifest": "https://github.com/th3mon/mothership-z-th3m0n3m-v10/releases/latest/download/world.json",
+  "download": "https://github.com/th3mon/mothership-z-th3m0n3m-v10/releases/latest/download/world.zip"
 }
