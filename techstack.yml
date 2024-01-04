@@ -1,7 +1,8 @@
 repo_name: th3mon/mothership-z-th3m0n3m-v10
-report_id: 1eb9bb3aeecef0495a1129a1ff62f15a
+report_id: 5380e87cf3fd93b1844078b4de7de2f7
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:26:31+00:00'
+timestamp: '2024-01-04T14:53:41+00:00'
 requested_by: stack-file[bot]
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/th3mon/mothership-z-th3m0n3m-v10
   detection_source: Repo Metadata
